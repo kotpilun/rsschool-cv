@@ -1,10 +1,10 @@
-#Kruglyakov Oleg
+# Kruglyakov Oleg
 
-##Contacts:
+## Contacts:
 **telegram:** @kot_pilun
 **github:** @kotpilun
 
-##About me:
+## About me:
 **Должность:** Senior system analyst
 **Опыт:** More than 10 years. IT Lead in a big russian bank
 **Code examples for markdown:**
